@@ -1,4 +1,4 @@
-# H1 👋 Hi, I’m @nholden10
+# 👋 Hi, I’m @nholden10
 - 👀 I’m interested in Ethereum and Web3 development.
 - 🌱 I’m currently learning Reactjs.
 - 📫 How to reach me: nholden10@gmail.com

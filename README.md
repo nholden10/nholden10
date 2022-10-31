@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @nholden10
-- 👀 I’m interested in Ethereum and Web3 development.
+- 👀 I’m interested in Ethereum and Web development.
 - 🌱 I’m currently learning Solidity and Reactjs.
 - 📫 How to reach me: nholden10@gmail.com
 <!---
